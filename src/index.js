@@ -18,6 +18,9 @@ module.exports = plugin(({ addUtilities, addComponents, e, prefix, config }) => 
     extend: {
       inset: {
         '50%': '50%'
+      },
+      translate: {
+        '50%': '50%'
       }
     }
   }
