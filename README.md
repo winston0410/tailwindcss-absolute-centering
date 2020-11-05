@@ -1,5 +1,7 @@
 # Tailwindcss Absolute Centering
 
+[![Maintainability](https://api.codeclimate.com/v1/badges/040556484eb39232b27e/maintainability)](https://codeclimate.com/github/winston0410/tailwindcss-absolute-centering/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/040556484eb39232b27e/test_coverage)](https://codeclimate.com/github/winston0410/tailwindcss-absolute-centering/test_coverage) [![Known Vulnerabilities](https://snyk.io/test/github/winston0410/tailwindcss-absolute-centering/badge.svg?targetFile=package.json)](https://snyk.io/test/github/winston0410/tailwindcss-absolute-centering?targetFile=package.json) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/47527772461148aa9c29b054d93cfdb2)](https://www.codacy.com/gh/winston0410/tailwindcss-absolute-centering/dashboard?utm_source=github.com&utm_medium=referral&utm_content=winston0410/tailwindcss-absolute-centering&utm_campaign=Badge_Grade)
+
 A Tailwindcss plugin to help you center elements with `position: relative` and `position:absolute` easily.
 
 ## Installation
