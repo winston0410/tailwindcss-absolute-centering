@@ -53,4 +53,12 @@ plugins: [
 .right-50%{
   right: 50%;
 }
+
+.translate-x-50%{
+  transform: translateX(50%);
+}
+
+.translate-y-50%{
+  transform: translateY(50%); 
+}
 ```
