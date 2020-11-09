@@ -40,6 +40,7 @@
     "test": "npx mocha --recursive './test/**/*.js' --require esm",
     "build": "NODE_ENV=production npx rollup -c;",
     "prepublish": "npm run build",
+    "postinstall": "npm run build",
     "dev": "NODE_ENV=development npx rollup -c -w;"
   },
   "peerDependencies": {
